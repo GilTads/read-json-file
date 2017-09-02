@@ -1,0 +1,26 @@
+[
+  {
+    "nomeAluno" : "Gillmar Ezaquel dos Santos",
+    "cpfAluno"  : "01444116100",
+    "aula" : [
+      {
+        "dataAula"   : "2017-09-02T18:25:43.511Z",
+        "horaInicio" : "07:00",
+        "horaFim"    : "08:00",
+        "instrutor"  : "joão Paulo",
+        "veiculo"    : "Celta",
+        "placa"      : "HSR-1397",
+        "categoria"  : "B"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
